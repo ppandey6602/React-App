@@ -1,1 +1,1 @@
-# Jai Sinha Plotline  React App
+# Prateek Pandey React App assignemnt
